@@ -1,0 +1,5 @@
+Para ejecutar este programa :
+
+1) abrir la carpeta completa desde una terminal de Linux
+2) hacer :  sudo apt install pkg-config qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools (esto para que no de error por el QApplication)
+3) ejecutar : ./run.sh
