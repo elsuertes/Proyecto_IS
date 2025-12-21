@@ -1,5 +1,0 @@
-INSERT INTO tutores_prueba VALUES ('49182637M','Álvaro','Serrano Gutiérrez','alvaro.serrano@universidad.es','Informática');
-INSERT INTO tutores_prueba VALUES ('72841953L','Marta','Jiménez Aranda','marta.jimenez@universidad.es','Matemáticas');
-INSERT INTO tutores_prueba VALUES ('58219347T','Jordi','Crespo Navarro','jordi.crespo@universidad.es','Telecomunicaciones');
-INSERT INTO tutores_prueba VALUES ('31695482H','Beatriz','López Romero','beatriz.lopez@universidad.es','Biología');
-INSERT INTO tutores_prueba VALUES ('84917365C','Raúl','García del Valle','raul.garcia@universidad.es','Física');
